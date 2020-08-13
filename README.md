@@ -1,1 +1,1 @@
-# Multimedia_Computing
+# Real-time Hand Detection
