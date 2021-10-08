@@ -16,6 +16,7 @@
 
 ### SSD (Single Shot Multi Box Detector)
 
+- [[github] Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow - SSD pretrained model](https://github.com/victordibia/handtracking)
 - [[paper] SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 
 ### CSRT (Discriminative Correlation Filter with Channel and Spatial Reliability)
